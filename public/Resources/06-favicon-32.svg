@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Aana Pappan favicon">
+  <title>Aana Pappan</title>
+  <rect width="32" height="32" rx="6" fill="#FBF4E2"/>
+  <g transform="translate(3, 3) scale(0.26)">
+    <path d="M 22 62 C 22 48, 30 38, 44 36 C 50 35, 57 36, 62 39 L 64 30 C 64 27, 67 25, 70 26 C 73 27, 74 30, 73 33 L 71 42 C 76 47, 78 54, 78 60 L 78 72 C 78 75, 76 77, 73 77 L 70 77 C 67 77, 65 75, 65 72 L 65 67 L 56 67 L 56 72 C 56 75, 54 77, 51 77 L 48 77 C 45 77, 43 75, 43 72 L 43 65 C 36 64, 30 60, 26 55 L 24 60 C 23 64, 20 65, 18 63 C 16 61, 17 58, 19 56 Z" fill="#2F6E48" stroke="#1F4D31" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 44 36 C 38 34, 33 36, 30 41 C 28 45, 29 50, 33 52 C 38 54, 43 51, 45 46 Z" fill="#E8B23A" stroke="#1F4D31" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 71 42 C 76 44, 80 48, 82 53 C 84 58, 83 63, 79 65 C 75 67, 72 64, 73 60 C 74 57, 76 56, 78 57" fill="none" stroke="#1F4D31" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
