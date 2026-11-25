@@ -7,10 +7,9 @@ import react from '@vitejs/plugin-react'
 // `npm run preview` -> serve the production build locally to test it
 export default defineConfig({
   plugins: [react()],
-
-  // Use relative paths in built HTML so the same dist/ works regardless of
-  // where it's served from (root of domain, subfolder, file:// etc.).
-  base: './',
+  
+  // Base path for GitHub Pages
+  base: '/aanapappan_backup/',
 
   build: {
     // Output to ./dist/
