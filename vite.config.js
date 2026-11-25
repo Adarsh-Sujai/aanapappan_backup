@@ -9,7 +9,7 @@ export default defineConfig({
   plugins: [react()],
   
   // Base path for GitHub Pages
-  base: '/aanapappan_backup/',
+  base: '/',
 
   build: {
     // Output to ./dist/
